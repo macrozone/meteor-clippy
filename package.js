@@ -2,7 +2,7 @@ Package.describe({
   name: 'macrozone:clippy',
   version: '0.0.1',
   // Brief, one-line summary of the package.
-  summary: '',
+  summary: 'Legendary Office-Helpers brought back alive!',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/macrozone/meteor-clippy',
   // By default, Meteor will default to using README.md for documentation.
